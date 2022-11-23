@@ -49,11 +49,11 @@ Easy setup which uses ChromeDriver to open up a new chrome instance and mint the
 
 1. Clone the repository/Download zip file (to the root of disk C:)
 
-    `https://github.com/mathside/MagicEden-minting-bot.git`
+    `https://github.com/0DeFi/MagicEden-Minting-Bot.git`
 
     OR
 
-    [Download Zip File](https://github.com/mathside/MagicEden-minting-bot/archive/refs/heads/main.zip)
+    [Download Zip File](https://github.com/0DeFi/MagicEden-Minting-Bot/archive/refs/heads/main.zip)
     
 
 2. Be sure you have installed Python correctly, [here is a link to download](https://www.python.org/downloads/)
@@ -82,10 +82,3 @@ Easy setup which uses ChromeDriver to open up a new chrome instance and mint the
     mac : `python3 main.py`
 
     or start : `start.bat`
-
----
-# ☕️ Support
-You can contact me be creating an issue here, if you want to support me with some SOL here I always appreciate help 👍
-```
-9q2pKwefUuSeFpW6NzwY998LU2XgAS13NuJySjHei8uQ
-```
